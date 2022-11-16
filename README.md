@@ -20,20 +20,6 @@ This is a web based application developed for financila related telugu based web
 ## Screenshots
 
 
- FINANCIAL1-   ![image](https://user-images.githubusercontent.com/116084696/202109061-474baaea-617d-493e-ae84-1f3a6cacbdf5.png)
-              
-                   ![image](https://user-images.githubusercontent.com/116084696/202109208-f3aaae5a-d9d5-4abf-8b2d-511f417afb32.png)
-                
-                   ![image](https://user-images.githubusercontent.com/116084696/202109516-dd85fde4-2ade-4285-832c-7f5892d2fc23.png)
-   
-   ###PRIVACY POLICY  -![image](https://user-images.githubusercontent.com/116084696/202109835-8f56630e-7227-4e89-a002-f547f3c26a35.png)
-
-                        ![image](https://user-images.githubusercontent.com/116084696/202109956-2f567c04-1485-490c-ba86-6e57659e94c4.png)
-                       
-                        ![image](https://user-images.githubusercontent.com/116084696/202110149-a6179a92-be43-433b-b6b7-9bb282688f51.png)
-         
-                         ![image](https://user-images.githubusercontent.com/116084696/202110295-d134599c-e5b1-43dd-b443-e660bc21589f.png)
-
 ##POST1-   ![image](https://user-images.githubusercontent.com/116084696/202110615-9dd53848-8251-4e09-b0ce-ca799b165b9f.png)
              ![image](https://user-images.githubusercontent.com/116084696/202110798-05153754-8fb6-438c-86a8-7732b8a95db5.png)
              ![image](https://user-images.githubusercontent.com/116084696/202110908-cf58f456-c2d3-4b9a-8a5b-cf1f5e899199.png)
@@ -69,7 +55,20 @@ This is a web based application developed for financila related telugu based web
 
               -![image](https://user-images.githubusercontent.com/116084696/202108637-cfc96e65-bc5f-4a72-8f61-825bd1c2fd89.pnF
                
+ FINANCIAL1-   ![image](https://user-images.githubusercontent.com/116084696/202109061-474baaea-617d-493e-ae84-1f3a6cacbdf5.png)
+              
+                   ![image](https://user-images.githubusercontent.com/116084696/202109208-f3aaae5a-d9d5-4abf-8b2d-511f417afb32.png)
+                
+                   ![image](https://user-images.githubusercontent.com/116084696/202109516-dd85fde4-2ade-4285-832c-7f5892d2fc23.png)
+   
+   ###PRIVACY POLICY  -![image](https://user-images.githubusercontent.com/116084696/202109835-8f56630e-7227-4e89-a002-f547f3c26a35.png)
 
+                        ![image](https://user-images.githubusercontent.com/116084696/202109956-2f567c04-1485-490c-ba86-6e57659e94c4.png)
+                       
+                        ![image](https://user-images.githubusercontent.com/116084696/202110149-a6179a92-be43-433b-b6b7-9bb282688f51.png)
+         
+                         ![image](https://user-images.githubusercontent.com/116084696/202110295-d134599c-e5b1-43dd-b443-e660bc21589f.png)
+ 
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
