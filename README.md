@@ -19,12 +19,8 @@ This is a web based application developed for financila related telugu based web
 
 ## Screenshots
 
-  DISCLAIMER-  ![image](https://user-images.githubusercontent.com/116084696/202108474-70910e2d-e5a2-4190-9637-7dd0ada613b3.png)
 
-              -![image](https://user-images.githubusercontent.com/116084696/202108637-cfc96e65-bc5f-4a72-8f61-825bd1c2fd89.pnF
-
-
-   FINANCIAL1-   ![image](https://user-images.githubusercontent.com/116084696/202109061-474baaea-617d-493e-ae84-1f3a6cacbdf5.png)
+ FINANCIAL1-   ![image](https://user-images.githubusercontent.com/116084696/202109061-474baaea-617d-493e-ae84-1f3a6cacbdf5.png)
               
                    ![image](https://user-images.githubusercontent.com/116084696/202109208-f3aaae5a-d9d5-4abf-8b2d-511f417afb32.png)
                 
@@ -66,7 +62,12 @@ This is a web based application developed for financila related telugu based web
 ##POST7       ![image](https://user-images.githubusercontent.com/116084696/202114170-bfd329ef-3e7e-4aa2-9bba-7eabe5a71bd2.png)
                ![image](https://user-images.githubusercontent.com/116084696/202114255-eb16792b-db02-4774-b9ff-08f99b718e7c.png)
                 ![image](https://user-images.githubusercontent.com/116084696/202114341-9838e249-1364-4438-855f-6cdce82daaa9.png)
+                
+                
 
+  DISCLAIMER-  ![image](https://user-images.githubusercontent.com/116084696/202108474-70910e2d-e5a2-4190-9637-7dd0ada613b3.png)
+
+              -![image](https://user-images.githubusercontent.com/116084696/202108637-cfc96e65-bc5f-4a72-8f61-825bd1c2fd89.pnF
                
 
 ## Tech Stack 💻
